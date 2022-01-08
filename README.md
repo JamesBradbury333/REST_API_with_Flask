@@ -1,2 +1,2 @@
-# REST_API_with_Flask
+# REST API with Flask
 Building a REST API with flask
